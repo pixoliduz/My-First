@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="black"/>
+  <path x="256" y="150" font-size="48" text-anchor="middle" fill="lime" font-family="sans-serif" stroke="lime" stroke-width="2" opacity="0.8">
+    lunguild
+  </path>
+  <path x="256" y="260" font-size="48" text-anchor="middle" fill="lime" font-family="sans-serif" stroke="lime" stroke-width="2" opacity="0.8">
+    JAKHO
+  </path>
+  <path x="256" y="370" font-size="48" text-anchor="middle" fill="lime" font-family="sans-serif" stroke="lime" stroke-width="2" opacity="0.8">
+    OFFICIAL
+  </path>
+</svg>
